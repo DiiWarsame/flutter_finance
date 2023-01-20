@@ -16,8 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
  -->
 
-<!-- # ID : C119076
-Name : WARSAME ABDIRAHMAN WARSAME -->
+# ID : C119076
+ Name : WARSAME ABDIRAHMAN WARSAME
 
 
-<img src="Education.PNG">
+<!-- <img src="Education.PNG"> -->
