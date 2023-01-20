@@ -1,6 +1,6 @@
 # flutter_finance
 
-A new Flutter project.
+<!-- A new Flutter project.
 
 ## Getting Started
 
@@ -13,11 +13,11 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference. -->
 
 
-<!-- ID : C119076
-Name : WARSAME ABDIRAHMAN WARSAME -->
+ID : C119076
+Name : WARSAME ABDIRAHMAN WARSAME
 
 
 <!-- <img src="war.JPG"> -->
